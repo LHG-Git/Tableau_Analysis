@@ -1,5 +1,3 @@
-# Ecommerce_Sales_Analysis
-📊 Tableau를 활용한 전자상거래 판매 분석
 <div align="center">
   <h1>📝 Tableau 활용 개인 프로젝트<br><br>
   💰 전자상거래 판매 분석</h1>
