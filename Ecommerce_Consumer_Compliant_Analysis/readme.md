@@ -87,22 +87,21 @@
 
 # 📊 데이터 분석 및 인사이트
 ## 1) 접수된 총 불만 사항 건수
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/8a4cca6f-809d-4ac7-8677-859e26e76629"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/35988792-0028-45e7-9c73-030847797261">
 
 * 접수된 총 불만 사항 건수가 75,513회인 것을 확인
 
 <br><br>
 
 ## 2) 불만 사항에 대한 적기 대응 비율
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/5172b55d-74df-444d-8838-56cdb101b9a5"></h3>
-
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/a1a829a9-b024-4d8c-a99e-8b5335ee7360">
 * 불만 사항에 대한 적기 대응 비율은 99.68%를 나타내는 것으로 확인
 
 
 <br><br>
 
 ## 3) 불만 사항 처리 건수 및 비율
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/79466185-d822-45d6-951c-0cc49f0cd205"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/aa9f3fda-6f7f-4ed5-a861-84ad1d7857f5">
 
 * 현재 처리 진행 중인 불만 사항 건수는 283건
 
@@ -111,21 +110,20 @@
 <br><br>
 
 ## 4) 금융 소비자 분쟁 비율
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/32d2a976-5ca5-49e2-9864-138dd809b02a"></h3>
-
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/2e2e676b-dfd6-4ead-9f94-5b8bc4b1fb22">
 * 금융 소비자의 분쟁 비율이 약 9.75%를 나타내는 것을 확인
 
 <br><br>
 
 ## 5) 비용으로 인한 해결이 아닌 비율 
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/056a07df-25fa-4c59-b26a-06ef476e8cb3"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/857798b9-9302-4974-ab47-4a3e1ff53ebe">
 
 * 비용을 들이지 않고 소비자 불만 사항을 해결한 비율이 약 84.52%을 차지하는 것을 확인
 
 <br><br>
 
 ## 6) 문제에 의한 불만 사항 
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/b20e10ec-6385-4914-b842-4090379e64be"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/118e4509-2091-4f90-9077-b2304f30a30a">
 
 * 계정 관리에 의한 불만 사항이 8,849건으로 가장 많은 것을 확인할 수 있음
 
@@ -141,7 +139,7 @@
 <br><br>
 
 ## 7) 제품에 의한 불만 사항
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/45ab27cd-86bb-49e1-9774-4eabb3a675b9"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/7582e765-b6f0-4af3-b221-95358f0cb5c2">
 
 * 신용카드에 의한 불만 사항이 19,176건으로 가장 많음
 
@@ -154,7 +152,7 @@
 <br><br>
 
 ## 8) 미디어에 의한 불만 사항
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/ae01fcf7-8929-4efc-931b-9fd50f60fc29"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/b33b61d7-9c2e-483b-b75e-0bb01dc87a1c">
 
 * 웹사이트나 추천, 핸드폰에 의한 불만 사항이 가장 많은 것을 확인
 
@@ -165,7 +163,7 @@
 <br><br>
 
 ## 9) 분쟁 고객 비율
-<h3><img src= "https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/d4740f6d-e279-46e3-a751-934185939289"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/02b55369-c03b-484b-8f09-e2571fe6931a">
 
 * 분쟁 고객은 7,363건으로 9.75%의 비율을 차지
 
@@ -180,7 +178,7 @@
 <br><br>
 
 # 📈 최종 대시보드
-<h3><img src= https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/8739e449-6095-42ad-b02e-73966ffaee6c></h3>
+<img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/01c93163-597a-46a0-a710-259a5e7d36de>
 
 [태블로 바로가기] : https://public.tableau.com/app/profile/heegu.lee/viz/_16907084424620/1
 
