@@ -253,7 +253,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/2407f8d7-1bdc-449b-8545-06274cc99225"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/f3c5b02a-6ba9-4ca1-870a-dfdcbf590613">
 
 * 정확한 매치 키워드로 보았을 때, 가장 높은 총 전환을 기록한 광고 그룹은 "promos"이며, 그 뒤를 이어 "coupons"가 따랐음, 모바일 기기가 가장 많이 사용됨
 
