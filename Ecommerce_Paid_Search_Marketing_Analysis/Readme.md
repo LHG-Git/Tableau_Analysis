@@ -239,15 +239,15 @@
 
 <br><br>
 
-## 10) "Devices"와 "Math Type" 기준으로 볼 때, 가장 높은 총 전환이 발생하는 광고 그룹
+## 10) "Devices"와 "Math Type" 기준으로 볼 때, 가장 높은 클릭수가 발생하는 광고 그룹
 
 <br>
 
-<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/9a4f9429-68f2-45a9-8d40-11694584769c">
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/d21e741e-df81-48db-b6dc-06bac7bd4e9e">
 
 <br>
 
-* 광고 그룹을 기준으로 보면, "coupon," "promo," 그리고 "discount"와 관련된 광고들이 모바일 기기를 통해 가장 높은 총 전환을 기록함
+* 광고 그룹을 기준으로 보면, "coupon," "promo," 그리고 "discount"와 관련된 광고들이 모바일 기기를 통해 가장 높은 총 클릭수를 기록함
   
 * 광고 그룹 "coupon"이 넓은 매치 키워드로 보았을 때, 모바일 기기를 통해 가장 많은 총 전환을 기록했습니다. 그 뒤를 이어 "promo"와 "discount"가 따름
 
