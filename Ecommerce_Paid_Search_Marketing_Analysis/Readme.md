@@ -275,13 +275,13 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/5aed3b8c-a47d-48d2-8938-aa99f5a3cc6a"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/cdb2ba94-fa08-4653-b665-fd95e1e608c1">
 
 * 전체적으로, 가장 높은 CTR(클릭률)은 광고 그룹 쿠폰이 35.75%, 프로모션은 35.45%, 그리고 할인은 27.45%로 모바일 기기에서 나타났으며, 넓은 매치 키워드와의 일치율이 1:1인 경우 CTR은 38.7%입니다. 캠페인 월별로 볼 때, 가장 높은 CTR은 9월에 있었음
 
 <br><br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/ea5ebae0-b154-4ce2-aa1c-3938fe5ea4da"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/792deb01-79d3-43a2-b73a-9bc085dbfd72">
 
 * 가장 낮은 CPA(클릭당 비용)는 광고 그룹 "Black Friday/Cyber Monday"에서 $1.13이었으며, 그 뒤를 이어 "free shipping"이 $3.31이고, "promo"가 $6.72였음
   
