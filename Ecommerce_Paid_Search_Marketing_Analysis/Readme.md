@@ -281,7 +281,7 @@
 
 <br><br>
 
-<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/792deb01-79d3-43a2-b73a-9bc085dbfd72">
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/196cb5b6-0f29-488d-b421-caa755e8401b">
 
 * 가장 낮은 CPA(클릭당 비용)는 광고 그룹 "Black Friday/Cyber Monday"에서 $1.13이었으며, 그 뒤를 이어 "free shipping"이 $3.31이고, "promo"가 $6.72였음
   
