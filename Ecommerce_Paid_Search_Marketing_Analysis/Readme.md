@@ -245,13 +245,13 @@
 
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/9a4f9429-68f2-45a9-8d40-11694584769c">
 
-<br>
+<br><br>
 
 * 광고 그룹을 기준으로 보면, "coupons," "promos," 그리고 "discounts"와 관련된 광고들이 모바일 기기를 통해 가장 높은 총 전환을 기록함
   
 * 광고 그룹 "coupon"이 넓은 매치 키워드로 보았을 때, 모바일 기기를 통해 가장 많은 총 전환을 기록했습니다. 그 뒤를 이어 "promos"와 "discounts"가 따름
 
-<br>
+<br><br>
 
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/f3c5b02a-6ba9-4ca1-870a-dfdcbf590613">
 
@@ -267,13 +267,13 @@
 
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/10c1e595-c273-4440-bd52-5eded2b5c962">
 
-<br>
+<br><br>
 
 * 전반적으로, 모바일 기기에서 가장 높은 인상(노출)을 기록했습니다.
   
 * 총 노출 수는 1,916,806회이며, 매치 유형은 넓은 매치 키워드로 1,755,536회이고, 광고 그룹은 쿠폰, 프로모션 및 할인과 관련된 것임
 
-<br>
+<br><br>
 
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/a7012e61-b69c-4904-bc96-812038d455ef">
 
