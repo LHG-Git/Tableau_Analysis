@@ -88,6 +88,7 @@
 # 📊 데이터 분석 및 인사이트
 ## 1) 접수된 총 불만 사항 건수
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/35988792-0028-45e7-9c73-030847797261">
+<br>
 
 * 접수된 총 불만 사항 건수가 75,513회인 것을 확인
 
@@ -95,6 +96,7 @@
 
 ## 2) 불만 사항에 대한 적기 대응 비율
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/a1a829a9-b024-4d8c-a99e-8b5335ee7360">
+<br>
 
 * 불만 사항에 대한 적기 대응 비율은 99.68%를 나타내는 것으로 확인
 
