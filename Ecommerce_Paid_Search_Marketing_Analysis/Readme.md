@@ -309,7 +309,7 @@
 <br><br>
 
 # 📈 최종 대시보드
-<h3 align="center"><img src= https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/1c4089f9-3425-4e13-bab2-4a8bf518e087></h3>
+<img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/2c3e59c4-54bc-46e5-8de9-817109831d21>
 
 [태블로 바로가기] : https://public.tableau.com/app/profile/heegu.lee/viz/PaidSearchMarketingDashboard_16900438709420/Dashboard
 
