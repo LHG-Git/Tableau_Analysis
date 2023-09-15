@@ -245,7 +245,7 @@
 
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/9a4f9429-68f2-45a9-8d40-11694584769c">
 
-<br><br>
+<br>
 
 * 광고 그룹을 기준으로 보면, "coupons," "promos," 그리고 "discounts"와 관련된 광고들이 모바일 기기를 통해 가장 높은 총 전환을 기록함
   
@@ -267,7 +267,7 @@
 
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/10c1e595-c273-4440-bd52-5eded2b5c962">
 
-<br><br>
+<br>
 
 * 전반적으로, 모바일 기기에서 가장 높은 인상(노출)을 기록했습니다.
   
