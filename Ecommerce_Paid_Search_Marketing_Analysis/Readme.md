@@ -83,7 +83,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/27b5388e-3aeb-4c0d-8e89-af0df05af91a"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/76e4701c-0bcc-445e-95a8-3cdcc882a685">
 
 <br>
 
@@ -97,7 +97,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/45d6b6c7-4000-420a-9929-7eaeda787498"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/17fdd9b7-58a7-4efc-b77e-52d35fd33089">
 
 <br>
 
@@ -111,7 +111,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/fd01c073-6463-40bb-a797-387f6fa14250"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/410aa142-7ac2-41d6-a5b3-63ec93d034ff">
 
 <br>
 
@@ -125,7 +125,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/9eef675a-9305-43d7-81c0-75d9c22ccb3b"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/83e8a036-0682-4af2-91af-7130e9009005">
 
 <br>
 
@@ -145,7 +145,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/8ea0f63e-da09-4321-8cb7-339526061ba1"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/81a5a9e6-aa4e-4847-9373-1477067532cf">
 
 <br>
 
@@ -161,7 +161,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/1a63c9ca-0b4b-4493-905c-b5a56c83c4fe"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/cb36cc8d-c44c-4810-8581-da29c66dbfdc">
 
 <br>
 
@@ -183,7 +183,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/07127626-bb89-4229-ad4f-68688c8a7f27"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/f138c873-0ba8-460b-9327-908416807d11">
 
 <br>
 
@@ -199,7 +199,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/cbc010a5-c3a3-41fe-8ceb-8336cc95f5cc"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/831e2fe2-ea4d-443f-a39f-28713ba6c21f">
 
 <br>
 
@@ -221,7 +221,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/4805c866-2e39-42ff-aae8-e115796e05a5"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/008954a1-1788-4d43-875f-1cb37a06e68d">
 
 <br>
 
@@ -243,7 +243,7 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/a3059b02-bd97-4eb3-8757-f0a37da39f29"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/9a4f9429-68f2-45a9-8d40-11694584769c">
 
 <br>
 
