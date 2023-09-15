@@ -83,14 +83,14 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 판매 수익, 거래량, 총량
-<h3 align="center"><img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/a9e80b93-2e13-49de-8c0a-5c892fd45321"></h3>
+<img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/a9e80b93-2e13-49de-8c0a-5c892fd45321">
 
 * Year, Month, Payment Method, Shoping Mall 별 판매 수익, 거래량, 총량 값을 나타내도록 필터를 생성<br>
 
 <br><br>
 
 ## 2) 연월별 판매 거래량 추세
-<h3 align="center"><img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/758b0a11-5143-4c44-96c2-6658a30a0b8a></h3>
+<img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/758b0a11-5143-4c44-96c2-6658a30a0b8a>
 
 * 거래량이 3000 ~ 4000 사이를 벗어나지 않아 안정적인 거래량을 띰<br>
 
@@ -101,7 +101,7 @@
 <br><br>
 
 ## 3) 판매 수익률이 가장 높은 상위 5개 제품
-<h3 align="center"><img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/f1ea97b8-9ae0-484b-b6af-7d3d4db8d91b></h3>
+<img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/f1ea97b8-9ae0-484b-b6af-7d3d4db8d91b>
 
 * Clothing-4, Clothing-5, Shoes-2, Technology-1, Shoes-3에 해당하는 제품들이 수익률이 가장 높은 상위 5개 제품에 해당됨<br>
 
@@ -116,7 +116,7 @@
 <br><br>
 
 ## 4) 판매 성장률
-<h3 align="center"><img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/fb992fee-535a-46c6-a067-711dfc3a2167></h3>
+<img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/fb992fee-535a-46c6-a067-711dfc3a2167>
 
 * 2021년에는 3월부터 성장률이 회복되었다가 6, 8, 9, 11월에 성장률이 급감<br>
 
@@ -127,7 +127,7 @@
 <br><br>
 
 ## 5) 나이에 의한 판매 수익
-<h3 align="center"><img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/dae0cc94-486e-45f6-91b0-d2ebd48cf854></h3>
+<img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/dae0cc94-486e-45f6-91b0-d2ebd48cf854>
 
 * 돈을 벌지 않는 청소년 고객은 다른 나이대 고객보다 적은 판매 수익을 띰<br>
 
@@ -138,7 +138,7 @@
 <br><br>
 
 # 📈 최종 대시보드
-<h3 align="center"><img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/135f6ae5-1727-49aa-a318-ea5249d5a924></h3>
+<img src= https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/135f6ae5-1727-49aa-a318-ea5249d5a924>
 
 [태블로 바로가기] : https://public.tableau.com/app/profile/heegu.lee/viz/EcommerceSalesanalysis_16905590888540/1
 
