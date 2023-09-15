@@ -89,6 +89,7 @@
 ## 1) 접수된 총 불만 사항 건수
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/35988792-0028-45e7-9c73-030847797261">
 
+
 <br>
 
 * 접수된 총 불만 사항 건수가 75,513회인 것을 확인
@@ -97,6 +98,7 @@
 
 ## 2) 불만 사항에 대한 적기 대응 비율
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/a1a829a9-b024-4d8c-a99e-8b5335ee7360">
+
 
 <br>
 
@@ -117,6 +119,7 @@
 ## 4) 금융 소비자 분쟁 비율
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/2e2e676b-dfd6-4ead-9f94-5b8bc4b1fb22">
 
+
 <br>
 
 * 금융 소비자의 분쟁 비율이 약 9.75%를 나타내는 것을 확인
@@ -125,6 +128,7 @@
 
 ## 5) 비용으로 인한 해결이 아닌 비율 
 <img src= "https://github.com/LHG-Git/Tableau_Analysis/assets/100845169/857798b9-9302-4974-ab47-4a3e1ff53ebe">
+
 
 <br>
 
